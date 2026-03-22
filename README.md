@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 
 
 <!--
-**marcos-vim/marcos-vim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Marcos Vinicius
 
-Here are some ideas to get you started:
+I am a backend developer focused on building reliable, scalable, and well-structured web applications. I enjoy solving problems, writing clean code, and working with tools that make development and deployment efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tech Stack
+
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Frameworks:** Laravel
+- **Infrastructure:** Linux, Docker
+
+## What I Do
+
+- Design and develop backend systems and RESTful APIs
+- Work with relational databases and optimize queries
+- Containerize applications for consistent development and deployment
+- Write maintainable code with a focus on performance and security
+
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/marcos-almeida-9b825a376
+- Email: marcosalraujo0@gmail.com
 -->
