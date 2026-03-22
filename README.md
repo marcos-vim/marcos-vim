@@ -1,9 +1,6 @@
-## Hi there 
+## Hi there! I'm Marcos Vinicius
 
-<!--
-# Hi, I'm Marcos Vinicius
-
-I am a backend developer focused on building reliable, scalable, and well-structured web applications. I enjoy solving problems, writing clean code, and working with tools that make development and deployment efficient.
+I’m a passionate backend developer focused on building reliable, maintainable, and scalable web applications. I enjoy working on server-side architecture, APIs, and development workflows that help bring products to life.
 
 ## Tech Stack
 
@@ -20,6 +17,5 @@ I am a backend developer focused on building reliable, scalable, and well-struct
 
 ## Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/marcos-almeida-9b825a376
+- LinkedIn: https://www.linkedin.com/in/marcos-vim
 - Email: marcosalraujo0@gmail.com
--->
